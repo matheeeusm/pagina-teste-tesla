@@ -1,0 +1,80 @@
+* {
+    font-family: sans-serif;
+    color: rgb(31, 31, 31);
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.logo {
+    width: 120px;
+    height: auto;
+}
+
+body {
+    background-image: url('assets/carros.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 40px;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.icons img{
+    width: 20px;
+    height: auto;
+}
+
+nav ul {
+    gap: 28px;
+    font-size: 13px;
+}
+
+.icons {
+    display: flex;
+    gap: 13px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 90px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    margin-top: 500px; 
+    gap: 20px;
+}
+
+.buttons button {
+    font-size: 13px;
+    padding: 10px 90px;
+    border-radius: 3px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.dark {
+    background-color: rgb(31,31,31);
+    color: white;
+}
