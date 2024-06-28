@@ -9,7 +9,7 @@ Tecnologias Utilizadas
 HTML: Estrutura básica da página, incluindo cabeçalho, corpo principal e rodapé.
 CSS: Estilização da página, incluindo cores, tipografia, espaçamentos e disposição dos elementos.
 
-Imagens do SITE:
+Imagem do SITE:
 
 
 ![image](https://github.com/matheeeusm/pagina-teste-tesla/assets/149075311/6ae6e843-4e4c-435d-98c2-8830492d7314)
